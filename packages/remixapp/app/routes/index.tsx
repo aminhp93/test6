@@ -1,5 +1,5 @@
-import { Header } from "aminhp93header";
-import { Footer } from "aminhp93footer";
+import { Header } from "aminhp93header2";
+import { Footer } from "aminhp93footer2";
 
 export default function Index() {
   return (
